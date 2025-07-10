@@ -5,7 +5,6 @@ int main() {
     int N, x, y;
 
     scanf("%d", &N);
-
     while (N--) {
         scanf("%d %d", &x, &y);
 
